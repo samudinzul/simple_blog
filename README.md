@@ -2,6 +2,7 @@
 
 ### Introduction
 This is a simple and quick blog application.
+<img src="intro.jpeg" /> 
 
 ### Features
 - login
@@ -10,8 +11,10 @@ This is a simple and quick blog application.
 - profile page to view user posts
 
 ### Server Requirement
-XAMPP Downloads -> https://www.apachefriends.org/download.html
-MySQL Community Downloads -> https://dev.mysql.com/downloads/mysql/
+> XAMPP Downloads -> https://www.apachefriends.org/download.html
+> 
+>MySQL Community Downloads -> https://dev.mysql.com/downloads/mysql/
+>
 
 ### Installation Guide
 - install XAMPP
@@ -21,9 +24,15 @@ MySQL Community Downloads -> https://dev.mysql.com/downloads/mysql/
 - import the blogDB.sql using PHPMyAdmin or MySQL command line
 
 ### added additional requirements (optional)
->> How can I change MariaDB to MySQL in XAMPP? 
- https://stackoverflow.com/questions/39654428/how-can-i-change-mariadb-to-mysql-in-xampp
+> How can I change MariaDB to MySQL in XAMPP? 
+>
+>>https://stackoverflow.com/questions/39654428/how-can-i-change-mariadb-to-mysql-in-xampp
+<img src="change_mariadb_to_mysql.jpeg" /> 
 
 ### default account details
-format: username/email / password
-
+Username/Email:
+> blog@blog.com
+>
+Password:
+>password
+>
