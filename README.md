@@ -27,6 +27,7 @@ This is a simple and quick blog application.
 > How can I change MariaDB to MySQL in XAMPP? 
 >
 >>https://stackoverflow.com/questions/39654428/how-can-i-change-mariadb-to-mysql-in-xampp
+<img src="change_mariadb_to_mysql.jpeg" /> 
 
 ### default account details
 Username/Email:
