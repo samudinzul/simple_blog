@@ -26,5 +26,8 @@ MySQL Community Downloads -> https://dev.mysql.com/downloads/mysql/
 >>https://stackoverflow.com/questions/39654428/how-can-i-change-mariadb-to-mysql-in-xampp
 
 ### default account details
-format: username/email / password
+username/email:
+- blog@blog.com
+password:
+- password
 
