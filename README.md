@@ -10,8 +10,10 @@ This is a simple and quick blog application.
 - profile page to view user posts
 
 ### Server Requirement
-XAMPP Downloads -> https://www.apachefriends.org/download.html
-MySQL Community Downloads -> https://dev.mysql.com/downloads/mysql/
+> XAMPP Downloads -> https://www.apachefriends.org/download.html
+> 
+>MySQL Community Downloads -> https://dev.mysql.com/downloads/mysql/
+>
 
 ### Installation Guide
 - install XAMPP
