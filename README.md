@@ -28,6 +28,7 @@ MySQL Community Downloads -> https://dev.mysql.com/downloads/mysql/
 ### default account details
 username/email:
 > blog@blog.com
+>
 password:
 >password
-
+>
