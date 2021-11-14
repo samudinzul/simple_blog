@@ -21,6 +21,7 @@ This is a simple and quick blog application.
 - install MySQL Community
 - clone or download this repo zip
 - extract it to to your installation XAMPP directory example -> `C:\xampp\htdocs`
+- create new database named `blog`
 - import the blogDB.sql using PHPMyAdmin or MySQL command line
 
 ### added additional requirements (optional)
