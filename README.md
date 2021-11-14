@@ -21,8 +21,9 @@ MySQL Community Downloads -> https://dev.mysql.com/downloads/mysql/
 - import the blogDB.sql using PHPMyAdmin or MySQL command line
 
 ### added additional requirements (optional)
->> How can I change MariaDB to MySQL in XAMPP? 
- https://stackoverflow.com/questions/39654428/how-can-i-change-mariadb-to-mysql-in-xampp
+> How can I change MariaDB to MySQL in XAMPP? 
+>
+>>https://stackoverflow.com/questions/39654428/how-can-i-change-mariadb-to-mysql-in-xampp
 
 ### default account details
 format: username/email / password
