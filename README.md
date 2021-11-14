@@ -28,9 +28,9 @@ This is a simple and quick blog application.
 >>https://stackoverflow.com/questions/39654428/how-can-i-change-mariadb-to-mysql-in-xampp
 
 ### default account details
-username/email:
+Username/Email:
 > blog@blog.com
 >
-password:
+Password:
 >password
 >
