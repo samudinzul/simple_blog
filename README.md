@@ -2,6 +2,7 @@
 
 ### Introduction
 This is a simple and quick blog application.
+(intro.jpeg "This is a sample image.")
 
 ### Features
 - login
